@@ -31,8 +31,4 @@ const page2:Pages = {
   status: 'close',
 }
 
-type Person = { name: string; age?: number; };
-let user: Person = { name: 'Alice', };
-user.age = '27';
-
 export {};
